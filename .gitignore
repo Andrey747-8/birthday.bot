@@ -1,0 +1,18 @@
+﻿# System files
+AppData/
+Local/
+Temp/
+
+# Environment
+.env
+.env.local
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE
+.vscode/
+.idea/
